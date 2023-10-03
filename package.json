@@ -4,7 +4,8 @@
   "description": "Guardian Tech Support Repository for app production.",
   "main": "index.js",
   "scripts": {
-    "start": "expo start"
+    "start": "expo start",
+    "hello":"node helloworld.js" 
   },
   "keywords": [
     "tech",
