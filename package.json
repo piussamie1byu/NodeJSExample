@@ -1,0 +1,17 @@
+{
+  "name": "guardiantech",
+  "version": "1.0.0",
+  "description": "Guardian Tech Support Repository for app production.",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start"
+  },
+  "keywords": [
+    "tech",
+    "admin",
+    "solution"
+  ],
+  "author": "Pius Samie Henry",
+  "license": "ISC"
+
+}
